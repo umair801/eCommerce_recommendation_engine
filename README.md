@@ -40,7 +40,7 @@ Production-ready recommendation system with hybrid algorithms, real-time persona
 
 Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/umair801/eCommerce_recommendation_engine.git
 cd ecommerce_recommendation_engine
 ```
 
@@ -415,10 +415,10 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-For issues and questions:
-- GitHub Issues: [repository-url]/issues
-- Documentation: [docs-url]
-- Email: support@yourcompany.com
+For issues or questions:
+- GitHub Issues: https://github.com/umair801/eCommerce_recommendation_engine/issues
+- Email: umair@datawebify.com
+- Documentation: See README.md
 
 ## Roadmap
 
